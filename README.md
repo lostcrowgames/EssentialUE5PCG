@@ -1,4 +1,4 @@
-# EssentialUE5PCG
+# Essential UE5 PCG
 Examples of using PCG in Unreal Engine 5.6.1
 
 ## Pre-requisites
@@ -36,6 +36,6 @@ Uses World Ray Hit Projection node to spawn points on any mesh. Can be used for 
 ### More examples are in development...
 
 ### Special thanks
-Procedural Minds - https://www.youtube.com/@Procedural_Minds
-Aziel Arts - https://www.youtube.com/@azielarts
-Unreal Engine - https://www.youtube.com/@UnrealEngine
+- Procedural Minds - https://www.youtube.com/@Procedural_Minds
+- Aziel Arts - https://www.youtube.com/@azielarts
+- Unreal Engine and Epic Games - https://www.youtube.com/@UnrealEngine

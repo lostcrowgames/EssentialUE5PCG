@@ -1,12 +1,12 @@
 # Essential UE5 PCG
-Examples of using PCG in Unreal Engine 5.6.1
+Examples of using PCG in Unreal Engine 5.8.1
 
 ## Pre-requisites
 ### Engine versions
-- Unreal Engine 5.6.1 or greater.
+- Unreal Engine 5.8.1 or greater.
 
 ### Plugins Required
-- Procedural Content Generation Framework (PCG) - Version 0.2
+- Procedural Content Generation Framework (PCG) - Version 1.0
 - Procedural Content Generation Framework (PCG) Geometry Script Interop - Version 0.2
 
 Additional plugins may be required in the future (PCG Biome Core, etc...)
